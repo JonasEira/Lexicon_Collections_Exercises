@@ -8,6 +8,6 @@ public class Main {
         System.out.println("" + Exercise1.run());
         Exercise2.run();
         Exercise3.run();
-
+        Exercise4.run();
     }
 }
