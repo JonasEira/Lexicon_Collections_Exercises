@@ -4,8 +4,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Exercise1 {
-    public static List<String> run(){
-        List<String> weekDays = new LinkedList<>();
+    public static LinkedList<String> run(){
+        LinkedList<String> weekDays = new LinkedList<>();
         weekDays.add("Monday");
         weekDays.add("Tuesday");
         weekDays.add("Wednesday");
