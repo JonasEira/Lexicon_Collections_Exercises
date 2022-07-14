@@ -13,5 +13,6 @@ public class Main {
         Exercise8.run();
 
         Exercise9_10_11.run();
+        Exercise12.run();
     }
 }
