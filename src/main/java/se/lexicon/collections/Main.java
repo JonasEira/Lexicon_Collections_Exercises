@@ -1,13 +1,14 @@
 package se.lexicon.collections;
 
-import java.util.LinkedList;
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println("" + Exercise1.run());
+        System.out.println("" + Exercise1.generateWeekList());
         Exercise2.run();
         Exercise3.run();
         Exercise4.run();
+
+        Exercise5.run();
+        Exercise6.run();
+        Exercise7.run();
     }
 }
