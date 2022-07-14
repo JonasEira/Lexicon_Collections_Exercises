@@ -16,5 +16,6 @@ public class Main {
         Exercise12.run();
 
         Challenge1.run();
+        Challenge2.run();
     }
 }
