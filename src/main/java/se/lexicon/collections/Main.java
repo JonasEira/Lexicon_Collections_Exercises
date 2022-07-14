@@ -14,5 +14,7 @@ public class Main {
 
         Exercise9_10_11.run();
         Exercise12.run();
+
+        Challenge1.run();
     }
 }
