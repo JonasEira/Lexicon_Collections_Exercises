@@ -18,5 +18,7 @@ public class Main {
         Challenge1.run();
         Challenge2.run();
         Challenge3.run();
+        Challenge4.run();
+
     }
 }
