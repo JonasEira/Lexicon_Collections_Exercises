@@ -11,5 +11,7 @@ public class Main {
         Exercise6.run();
         Exercise7.run();
         Exercise8.run();
+
+        Exercise9_10_11.run();
     }
 }
